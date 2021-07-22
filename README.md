@@ -2,19 +2,17 @@
 
 ## I'm a Soccer, Hiphop, liquor lover and Developer!!
 
-- 🔭 I love liquor and coding
+- 🙉 I love liquor and coding
 - 🌱 I’m currently learning Django, SQL, server to be back-end developer
 - 🥅 2021 Goals: To be junior back-end developer
 - ⚡ Fun fact: I love to watch Youtube with Wine
 
 ### Connect with me:
 
-[<img align="left" alt="My_site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="facebook" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/facebook-social-media-fb-logo-square-44659.png" />][facebook]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+✓ [Blog](https://room9.github.io/about)  
+✓ [RocketPunch](https://www.rocketpunch.com/@miiny3524)  
+✓ [LinkedIn](https://www.linkedin.com/in/sung-ho-moon-706621214/)  
+✓ [Wanted](https://www.wanted.co.kr/profile/matching?level=3)
 
 ### Languages and Tools:
 
@@ -40,10 +38,7 @@
   <img align="left" alt="Room9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Room9&show_icons=true&hide_border=true" />
   <img align="left" alt="Room9's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Room9&layout=compact" />
 
-[website]: https://room9.github.io/about
-[instagram]: https://instagram.com
-[linkedin]: https://linkedin.com
-[facebook]: https://www.facebook.com
+[linkedin]: https://www.linkedin.com/in/sung-ho-moon-706621214/
 
 
 <!--
