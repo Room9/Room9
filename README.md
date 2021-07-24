@@ -10,7 +10,7 @@
 ### Connect with me:
 
 ✓ [Blog](https://room9.github.io/about)  
-✓ [RocketPunch](https://www.rocketpunch.com/@miiny3524)  
+✓ [RocketPunch](https://www.rocketpunch.com/@miiny3524/resume)  
 ✓ [LinkedIn](https://www.linkedin.com/in/sung-ho-moon-706621214/)  
 ✓ [Wanted](https://www.wanted.co.kr/profile/matching?level=3)
 
