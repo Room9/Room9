@@ -3,8 +3,8 @@
 ## I'm a Soccer, Hiphop, liquor lover and Developer!!
 
 - 🙉 I love liquor and coding
-- 🌱 I’m currently learning Django, SQL, server to be back-end developer
-- 🥅 2021 Goals: To be junior back-end developer
+- 🌱 I’m currently learning Django, SpringBoot, SQL, DevOps to be back-end developer
+- 🥅 2021 Goals: To be junior back-end developer + Studying Financial Knowledge 
 - ⚡ Fun fact: I love to watch Youtube with Wine
 
 ### Connect with me:
