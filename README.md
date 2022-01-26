@@ -35,11 +35,14 @@
 
 ### GitHub Stats
 
-  <img align="left" alt="Room9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Room9&show_icons=true&hide_border=true" />
-  <img align="left" alt="Room9's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Room9&layout=compact" />
+<div align=center>
 
-[linkedin]: https://www.linkedin.com/in/sung-ho-moon-706621214/
+<img align="left" alt="Room9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Room9&show_icons=true&hide_border=true" />
+<img align="left" alt="Room9's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Room9&layout=compact" />
 
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoom9&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Room9/Room9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
