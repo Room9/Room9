@@ -28,8 +28,7 @@
 ### GitHub Stats
 
 
-<img align="left" alt="Room9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Room9&show_icons=true&hide_border=true" />
-<img align="right" alt="Room9's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Room9&layout=compact" />
+<img align="left" alt="Room9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Room9&show_icons=true&hide_border=true" /><img align="right" alt="Room9's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Room9&layout=compact" />
 
 
 <!--
