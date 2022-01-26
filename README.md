@@ -42,6 +42,9 @@
 
 <div align=center>
 
+[![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://www.linkedin.com/in/yjmoon/)](https://www.notion.so/ee6a9c3dc0ab439a8905685b1df55042/)\
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yjmoon/)](https://www.linkedin.com/in/sung-ho-moon-706621214/)\
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miiny3524@gmail.com)\
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoom9&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
