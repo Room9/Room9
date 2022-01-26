@@ -1,19 +1,39 @@
-### Hi there, I'm Sungho Moon 👋
+### Hi there, I'm Sungho Moon 👋🏻
 
-## I'm a Soccer, Hiphop, liquor lover and Developer!!
+## I WAS...
+👨🏻‍🔧 Seminconductor Engineer in Samsung Electronics for 4years
 
-- 🙉 I love liquor and coding
-- 🌱 I’m currently learning Django, SpringBoot, SQL, DevOps to be back-end developer
-- 🥅 2021 Goals: To be junior back-end developer + Studying Financial Knowledge 
-- ⚡ Fun fact: I love to watch Youtube with Wine
+## Now I am...
+🌱 Studying Backend & DataEngineering
+👨🏻‍💻 Developing Recommendation System from food delivery service
 
-### Connect with me:
+## I will...
+👥 Study Machine Learning(Especially in MLOps) & Data analytics
 
-✓ [Blog](https://room9.github.io/about)  
-✓ [RocketPunch](https://www.rocketpunch.com/@miiny3524/resume)  
-✓ [LinkedIn](https://www.linkedin.com/in/sung-ho-moon-706621214/)  
-✓ [Wanted](https://www.wanted.co.kr/profile/matching?level=3)
+## Favorite
 
+⚽️ soccer 🏋🏻 work out 🍾 liquor 🎤 hiphop
+
+<br />
+<br />
+
+<div align=center>
+
+[![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://www.linkedin.com/in/yjmoon/)](https://www.notion.so/ee6a9c3dc0ab439a8905685b1df55042/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yjmoon/)](https://www.linkedin.com/in/sung-ho-moon-706621214/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miiny3524@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoom9&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+### GitHub Stats
+
+<div align=center>
+
+<img align="left" alt="Room9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Room9&show_icons=true&hide_border=true" />
+<img align="left" alt="Room9's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Room9&layout=compact" />
+
+
+<!--
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -31,23 +51,6 @@
 <br />
 <br />
 
-
-
-### GitHub Stats
-
-<div align=center>
-
-<img align="left" alt="Room9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Room9&show_icons=true&hide_border=true" />
-<img align="left" alt="Room9's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Room9&layout=compact" />
-
-<div align=center>
-
-[![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white&link=https://www.linkedin.com/in/yjmoon/)](https://www.notion.so/ee6a9c3dc0ab439a8905685b1df55042/)\
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yjmoon/)](https://www.linkedin.com/in/sung-ho-moon-706621214/)\
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miiny3524@gmail.com)\
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoom9&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!--
 **Room9/Room9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
