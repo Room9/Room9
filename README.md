@@ -1,16 +1,16 @@
 ### Hi there, I'm Sungho Moon 👋🏻
 
-## I WAS...
+### I WAS...
 👨🏻‍🔧 Seminconductor Engineer in Samsung Electronics for 4years
 
-## Now I am...
-🌱 Studying Backend & DataEngineering
+### Now I am...
+🌱 Studying Backend & DataEngineering\
 👨🏻‍💻 Developing Recommendation System from food delivery service
 
-## I will...
+### I will...
 👥 Study Machine Learning(Especially in MLOps) & Data analytics
 
-## Favorite
+### Favorite
 
 ⚽️ soccer 🏋🏻 work out 🍾 liquor 🎤 hiphop
 
