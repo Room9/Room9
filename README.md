@@ -5,7 +5,7 @@
 
 ### Now I am...
 🌱 Studying Backend & DataEngineering\
-👨🏻‍💻 Developing Recommendation System from food delivery service
+👨🏻‍💻 Developing Recommendation System for food delivery service
 
 ### I will...
 👥 Study Machine Learning(Especially in MLOps) & Data analytics
